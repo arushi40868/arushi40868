@@ -18,7 +18,7 @@
 
 ---
 
-### 👋 A little about me
+###  A little about me
 
 I'm **Arushi**, a **Master of Interdisciplinary Data Science candidate at Duke University (Class of 2027)**, building toward a career in **machine learning and AI engineering**.
 
@@ -26,23 +26,23 @@ Before graduate school, I spent three years at **Abercrombie & Fitch Co.** worki
 
 Today, I enjoy working at the intersection of **machine learning, deep learning, research, and data systems** — from experimenting with generative models to building reproducible, end-to-end analytical workflows.
 
-- 🔭 **Current interests:** Generative AI, computer vision, predictive ML, and ML systems
-- 🧪 **Research experience:** Oyster transcriptomics, environmental data, and RNA-seq analysis
-- 🧱 **Engineering mindset:** Data pipelines, testing, reproducibility, and practical deployment
-- 🎯 **Next chapter:** Exploring **2027 new-grad ML Engineer / AI Engineer / Data Scientist** opportunities
+-  **Current interests:** Generative AI, computer vision, predictive ML, and ML systems
+-  **Research experience:** Oyster transcriptomics, environmental data, and RNA-seq analysis
+-  **Engineering mindset:** Data pipelines, testing, reproducibility, and practical deployment
+-  **Next chapter:** Exploring **2027 new-grad ML Engineer / AI Engineer / Data Scientist** opportunities
 
-### ✨ Featured work
+###  Featured work
 
 | Project | What I explored | Stack |
 | :--- | :--- | :--- |
-| 🎞️ **[Deep Learning Video Inpainting](https://github.com/arvindkandala/deep-learning-video-inpainting-project)** | Restoring masked regions in anime video with diffusion-based methods; experimenting with VAE reconstruction and evaluating visual quality | `PyTorch` `Diffusers` `OpenCV` |
-| 📉 **[Global Recession Early Warning](https://github.com/tina-ytyuan/SP26_IDS705_ML_Project)** | Predicting next-year economic contractions using time-aware validation, model comparison, and probability calibration | `Python` `scikit-learn` `XGBoost` |
-| 🦪 **[Oyster Research / Data+](https://github.com/oystersdukebc/2025-2026-team-code)** | Investigating environmental patterns and oyster gene expression through RNA-seq and statistical analysis | `R` `Bioinformatics` `WGCNA` |
-| 🍽️ **[DineLike — Data Engineering](https://github.com/Vihaan8/de-dinelike-project)** | Team-built restaurant recommendation system; contributed to testing and documentation of its engineering workflow | `Python` `Testing` `Data Engineering` |
+|  **[Deep Learning Video Inpainting](https://github.com/arvindkandala/deep-learning-video-inpainting-project)** | Restoring masked regions in anime video with diffusion-based methods; experimenting with VAE reconstruction and evaluating visual quality | `PyTorch` `Diffusers` `OpenCV` |
+|  **[Global Recession Early Warning](https://github.com/tina-ytyuan/SP26_IDS705_ML_Project)** | Predicting next-year economic contractions using time-aware validation, model comparison, and probability calibration | `Python` `scikit-learn` `XGBoost` |
+|  **[Oyster Research / Data+](https://github.com/oystersdukebc/2025-2026-team-code)** | Investigating environmental patterns and oyster gene expression through RNA-seq and statistical analysis | `R` `Bioinformatics` `WGCNA` |
+|  **[DineLike — Data Engineering](https://github.com/Vihaan8/de-dinelike-project)** | Team-built restaurant recommendation system; contributed to testing and documentation of its engineering workflow | `Python` `Testing` `Data Engineering` |
 
 <sub>These are collaborative projects. Individual contributions are detailed in the associated repositories.</sub>
 
-### 🛠️ Tools I work with
+###  Tools I work with
 
 **Languages**
 
@@ -67,7 +67,7 @@ Today, I enjoy working at the intersection of **machine learning, deep learning,
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🌱 More than code
+###  More than code
 
 I love the creative side of problem-solving, too. Outside of tech, you'll find me exploring **dance and choreography**, getting lost in **The Legend of Zelda**, or reading fiction that makes me question everything.
 
@@ -76,5 +76,5 @@ I love the creative side of problem-solving, too. Outside of tech, you'll find m
 <div align="center">
   <strong>Curious about my work?</strong><br />
   Explore the repositories above, or browse more of my projects on <a href="https://github.com/arushi40868?tab=repositories">GitHub</a>.<br /><br />
-  <em>Always learning. Always building.</em> ✨
+  <em>Always learning. Always building.</em> 
 </div>
