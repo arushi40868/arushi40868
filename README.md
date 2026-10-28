@@ -5,7 +5,7 @@
   <img width="100%" alt="Arushi Singh — Machine Learning • Deep Learning • Data Engineering" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4338CA,100:0891B2&height=215&section=header&text=Arushi%20Singh&fontSize=56&fontColor=FFFFFF&fontAlignY=37&desc=Machine%20Learning%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20Data%20Engineering&descSize=18&descAlignY=59" />
 
   <a href="https://git.io/typing-svg">
-    <img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=8B9CFF&center=true&vCenter=true&width=760&lines=Duke+MIDS+%2727+%7C+Aspiring+ML+Engineer;Former+IT+Analyst+%40+Abercrombie+%26+Fitch;From+messy+data+to+meaningful+intelligence" />
+    <img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=8B9CFF&center=true&vCenter=true&width=760&lines=Duke+MIDS+%2727+%7C+Aspiring+ML+Engineer;Former+BI+Engineer+%40+Abercrombie+%26+Fitch;From+messy+data+to+meaningful+intelligence" />
   </a>
 
   <p><strong>Building models that make sense — and systems that make them useful.</strong></p>
